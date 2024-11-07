@@ -27,6 +27,8 @@ A simple JavaFX-based BMI (Body Mass Index) calculator that allows users to calc
 ## Screenshots
 
 ![BMI Calculator Screenshot]
+
+
 ![photo_2024-11-07_21-24-18](https://github.com/user-attachments/assets/ee5d82ed-80dc-4d17-87e9-651c09d7050f)
 
 
