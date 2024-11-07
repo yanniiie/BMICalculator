@@ -64,14 +64,6 @@ A simple JavaFX-based BMI (Body Mass Index) calculator that allows users to calc
 - Click the **Calculate BMI** button.
 - Your BMI will be displayed along with the corresponding BMI status (Underweight, Normal, Overweight, Obese).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Thanks to the JavaFX community for their extensive documentation and support.
-- Special thanks to Scene Builder for simplifying the creation of user interfaces in JavaFX.
 
 
 
